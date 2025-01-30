@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 
 
 Project url: https://githuh-random-repository.vercel.app/
+
+Project idea from : https://roadmap.sh/projects/github-random-repo
